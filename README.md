@@ -19,3 +19,6 @@ This project is a comprehensive simulation of core operating system functionalit
 🧠 Project Goal
 To provide a hands-on simulation of OS behaviors that reinforces theoretical concepts such as scheduling algorithms, deadlock detection, and memory management—ideal for students exploring system-level programming.
 
+Team Members:
+             Muhammad Sannan Azmat
+             Shaheer Ahmed
